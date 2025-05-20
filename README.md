@@ -50,7 +50,7 @@ By default, Laravel will run on http://127.0.0.1:8000
 Open a new terminal tab/window:
 
 ```bash
-cd event-management-frontend
+cd frontend
 npm install      # or yarn install
 npm run dev      # or yarn dev
 ```
